@@ -128,5 +128,6 @@
         "yaml.schemas": {
                 "${workspaceFolder}/validation/module_schema.yaml": "${workspaceFolder}/src/modules/*/module.yaml"
         },
-        "C_Cpp.dimInactiveRegions": false
+        "C_Cpp.dimInactiveRegions": false,
+        "ros.distro": "noetic"
 }
